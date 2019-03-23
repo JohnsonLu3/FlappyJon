@@ -1,4 +1,4 @@
-# phaser-flappy-bird ![icon](./assets/birds/bird3.png)
+# phaser-flappy-bird ![icon](./assets/JonDab.png)
 Flappy Bird but with a friend as the bird
 
 ## Intro

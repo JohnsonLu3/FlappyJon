@@ -1,4 +1,4 @@
-# phaser-flappy-bird ![icon](./assets/JonDab.png)
+# Flappy Jon ![icon](./assets/JonDab.png)
 Flappy Bird but with a friend as the bird
 
 ## Intro
@@ -9,7 +9,7 @@ Modified to work better with the larger sprite and better game feel to accomdate
 
 ## Demo
 
-play it [here ]().
+play it [here ](https://johnsonlu3.github.io/FlappyJon/).
 
 ## License
 
